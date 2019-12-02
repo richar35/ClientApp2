@@ -1,0 +1,7 @@
+C:\Users\Emily\Documents\CIT110\Week15\Assessment_ClientApp2\Assessment_ClientApp2\bin\Debug\Assessment_ClientApp2.exe.config
+C:\Users\Emily\Documents\CIT110\Week15\Assessment_ClientApp2\Assessment_ClientApp2\bin\Debug\Assessment_ClientApp2.exe
+C:\Users\Emily\Documents\CIT110\Week15\Assessment_ClientApp2\Assessment_ClientApp2\bin\Debug\Assessment_ClientApp2.pdb
+C:\Users\Emily\Documents\CIT110\Week15\Assessment_ClientApp2\Assessment_ClientApp2\obj\Debug\Assessment_ClientApp2.csprojAssemblyReference.cache
+C:\Users\Emily\Documents\CIT110\Week15\Assessment_ClientApp2\Assessment_ClientApp2\obj\Debug\Assessment_ClientApp2.exe
+C:\Users\Emily\Documents\CIT110\Week15\Assessment_ClientApp2\Assessment_ClientApp2\obj\Debug\Assessment_ClientApp2.pdb
+C:\Users\Emily\Documents\CIT110\Week15\Assessment_ClientApp2\Assessment_ClientApp2\bin\Debug\Data\Data.txt
